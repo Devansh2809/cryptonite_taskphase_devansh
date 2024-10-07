@@ -1,5 +1,5 @@
 # Intro to Commands
-We get to know about commands and how typing  "hello", the command will be invoked.
+We get to know about commands and how typing  __hello__, the command will be invoked.
 
 # Intro to Arguments
-Learnt usage of running the "hello" command with argument "hackers" and how to use the "echo" command.
+Learnt usage of arguements by running the __hello__ command with argument __hackers__ and how to use the __echo__ command.
