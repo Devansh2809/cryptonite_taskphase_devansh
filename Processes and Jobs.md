@@ -29,3 +29,6 @@ Ran `/challenge/run` it told me to first interrupt the process the run it in bac
 
 # Starting Backgrounded Processes 
 Did `/challenge/run &` to to start the backgrounded process and get the flag.
+
+# Process Exit Codes
+First run `/challenge/get-code` then `echo $?` to get the error code generated putting the error code as arguement use it as `/challenge/submit-code 143` to get the flag.  
