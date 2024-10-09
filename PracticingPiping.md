@@ -8,7 +8,7 @@ Use `/challenge/run > myflag` and then `cat myflag` to get the flag.
 Use  `/challenge/run >> /home/hacker/the-flag` to redirect the output, then `cat /home/hacker/the-flag` to get the flag.
 
 # Redirecting errors
-Learnt about File Descriptor (FD) is a number the describes a communication channel in Linux \
+Learnt about File Descriptor (FD)  which is a number the describes a communication channel in Linux \
 Then used `/challenge/run > myflag 2> instructions` and `cat myflag`to get the flag.
 
 # Redirecting input
