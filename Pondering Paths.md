@@ -37,7 +37,7 @@ After using `cd /etc` to naviagte to the directory,  run `/challenge/run`.
 
 # Implicit relative paths, from /
 Learned that the current working directory does matter for relative paths \
-After navigating to `cd /` run the command `/challenge/run`
+After navigating to `cd /` run the command `challenge/run`
 
 # Explicit relative paths, from /
 `.` refers to the same directory \
