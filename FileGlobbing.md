@@ -1,8 +1,8 @@
 # Matching with *
-First run `cd /ch*` which took me into `challenge` directory. Then run `/challenge/run` to get the flag.
+First run `cd /ch*` which took me into `challenge` directory. Then run `./run` to get the flag.
 
 # Matching with ?
-Running `cd /?ha??enge`took me to the `challenge` directory, then `/challenge/run` gives the flag
+Running `cd /?ha??enge`took me to the `challenge` directory, then `./run` gives the flag
 
 # Matching with []
 First change  to `/challenge/file` directory, then use `/challenge/run file_[bash]` to get the flag.
